@@ -1,0 +1,55 @@
+
+
+body {
+  background: linear-gradient(to bottom right, darkblue, magenta);
+
+}
+p {font-family: 'Oswald', sans-serif;
+font-size: 70px;
+color: white;
+padding-right: 140px;
+padding-left:140px;
+padding-bottom:30px;}
+h1 {text-align:left;}
+h2 {text-align:center; font-style: oblique;font-weight: normal;}
+h3 {text-align:right;}
+h4{text-align:center;font-style: oblique; font-weight: normal;}
+h5{text-align:left;padding-top:40px;}
+h6{text-align:right;font-style: oblique; font-weight: normal;}
+h7{text-align:center;font-weight: normal;} 
+h8{text-align:left;}
+h9{font-weight: normal;} 
+h10{font-size: 500px; text-align: center;font-weight: bold;}
+.highlight{background: black}
+.oblique{
+  font-style: oblique;
+}
+.seals{
+  
+  background-image:url(https://res.cloudinary.com/dyybitzae/image/upload/v1538694157/background.jpg); 
+  background-attachment: fixed;
+  background-size:cover 
+}
+
+.foxes{
+  
+  background-image:url(https://res.cloudinary.com/dyybitzae/image/upload/v1539282673/ben-o-bro-357761-unsplash.jpg);
+  background-attachment: fixed;
+  background-size:cover
+}
+  
+.oceanview{
+  
+  
+  background-image:url(https://res.cloudinary.com/dyybitzae/image/upload/v1539281135/ishan-seefromthesky-403804-unsplash.jpg);
+ background-attachment: fixed;
+  background-size:cover
+}   
+
+
+.couple{
+  
+  background-image:url(https://res.cloudinary.com/dyybitzae/image/upload/v1539283058/chris-barbalis-1095077-unsplash.jpg);
+    background-attachment: fixed;
+  background-size:cover
+}
